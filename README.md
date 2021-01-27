@@ -2,8 +2,6 @@
 
 <h1>Hi there 👋</h1>
 
-My name is Mario Rezende.
-
 I work as a **Backend Developer** at [Zup Innovation](https://zup.com.br).
 
 Learning **Game Development** with **JAVA** and **LibGDX**
