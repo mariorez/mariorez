@@ -1,11 +1,20 @@
-
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
-==========================================================================================================================================
-
-
-My name is Mario Rezende. I work as a Backend Developer at Zup Innovation.
-
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=mariorez&countColorcountColor)
+
+<h1>Hi there 👋</h1>
+
+My name is Mario Rezende.
+
+I work as a **Backend Developer** at [Zup Innovation](https://zup.com.br).
+
+Learning **Game Development** with **JAVA** and **LibGDX**
+
+
+📫 How to reach me:
+- https://www.linkedin.com/in/mariorez/
+- https://twitter.com/mariorez
+- https://www.twitch.tv/mariorez
+- https://www.youtube.com/user/mariorez
+
 
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariorez&layout=compact&count_private=true)
 
