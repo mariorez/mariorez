@@ -2,9 +2,9 @@
 
 <h1>Hi there 👋</h1>
 
-I work as a **Backend Developer** at [Zup Innovation](https://zup.com.br).
+I'm an **JAVA** platform enthusiast and **Backend Developer** with emphasis in **Design** and **Software Architecture** such as: DDD, Hexagonal Architecture, CQRS, TDD.
 
-Learning **Game Development** with **JAVA** and **LibGDX**
+Currently having fun with **[LibGDX](https://libgdx.com)** Game Framework.
 
 📫 How to reach me:
 
