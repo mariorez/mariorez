@@ -10,7 +10,7 @@ Currently having fun with **[LibGDX](https://libgdx.com)** Game Framework.
 [<img align="left" alt="Mariorez @ LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> linkedin.com/in/mariorez](https://linkedin.com/in/mariorez)<br clear=all>
 [<img align="left" alt="Mariorez @ Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"> twitter.com/mariorez](https://twitter.com/mariorez)<br clear=all>
 [<img align="left" alt="Mariorez @ Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg"> twitch.tv/mariorez](https://twitch.tv/mariorez)<br clear=all>
-[<img align="left" alt="Mariorez @ YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"> youtube.com/user/mariorez](https://youtube.com/user/mariorez)
+[<img align="left" alt="Mariorez @ YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"> youtube.com/mariorez](https://youtube.com/user/mariorez)
 
 <hr>
 
