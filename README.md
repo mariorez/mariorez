@@ -1,7 +1,7 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=mariorez&countColorcountColor)
 
-<h1>Hi there 👋</h1>
-I'm an JAVA enthusiast, KOTLIN's apprentice, Game Dev Hobbyist and Backend Developer with emphasis in Software Design and Architecture such as: DDD, Hexagonal Architecture, CQRS and TDD.
+Backend Dev • Live Coder • the More I Learn, the Less I Know
+
 
 📫 How to reach me:
 
