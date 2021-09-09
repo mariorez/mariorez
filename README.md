@@ -1,6 +1,6 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=mariorez&repo=mariorez&countColorcountColor)
 
-Backend Dev • Live Coder • the More I Learn, the Less I Know
+Backend Dev | the More I Learn, the Less I Know
 
 
 📫 How to reach me:
